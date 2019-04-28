@@ -1,4 +1,4 @@
-if (name ===) 
+  varn name= "joe"   
 var height = "74"
 "susan" 
 
