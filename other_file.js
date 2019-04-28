@@ -1,2 +1,2 @@
-concole.log(name)
+concole.log (name)
 
