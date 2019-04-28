@@ -1,3 +1,3 @@
-Expected: Susan, Received: joe)
-Expected: 70, Received: 74)
+Expected: Susan,Received: joe)
+Expected 70, Received: 74)
 
